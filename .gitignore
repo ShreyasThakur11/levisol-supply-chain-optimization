@@ -1,0 +1,20 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.python-version
+
+# generated output
+output/
+*.log
+
+# editors and OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# office temp files
+~$*
